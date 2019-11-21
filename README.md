@@ -1,5 +1,5 @@
 # takamitest
-Basic crud nodejs express framework
+Basic crud nodejs express framework over SQL Server Database.
 
 # Before running this project
 Clone repo and install npm packages using 'npm install' command.

@@ -1,6 +1,9 @@
 # takamitest
 Basic crud nodejs express framework
 
+# Before running this project
+Clone repo and install npm packages using 'npm install' command.
+
 Shield Manager
 URL Samples:
 
